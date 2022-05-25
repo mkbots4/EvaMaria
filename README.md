@@ -32,6 +32,8 @@
 - [x] File Store
 ## Variables
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=[https://github.com/heroku/node-js-getting-started](https://github.com/mkbots4/EvaMaria.git))
+
 Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up with your edits.
 
 ### Required Variables
